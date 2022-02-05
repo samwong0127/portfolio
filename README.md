@@ -1,6 +1,6 @@
 # portfolio
 
-my portfolio
+My portfolio at https://samwong0127.github.io/portfolio
 
 Update by `git init` in portfolio folder (`git remote rm origin`)
 
