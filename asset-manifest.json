@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.cd58f987.css",
-    "main.js": "/portfolio/static/js/main.b3955d1d.js",
+    "main.css": "/portfolio/static/css/main.c5665ba2.css",
+    "main.js": "/portfolio/static/js/main.522de388.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/20211213_192325.mp4": "/portfolio/static/media/20211213_192325.35f4c483fb0b45d1d3a7.mp4",
+    "static/media/IMG_20210225_102430.jpg": "/portfolio/static/media/IMG_20210225_102430.92ebe51516896ca35d70.jpg",
+    "static/media/IMG_20210225_102214.jpg": "/portfolio/static/media/IMG_20210225_102214.95517d771062d93df0d6.jpg",
+    "static/media/Screenshot_2.jpg": "/portfolio/static/media/Screenshot_2.ed257adae67329cb76b4.jpg",
+    "static/media/Screenshot_1.jpg": "/portfolio/static/media/Screenshot_1.f2600995d7a82552f51b.jpg",
+    "static/media/mypicture_sqaure.jpg": "/portfolio/static/media/mypicture_sqaure.718ddb810c2ff7e02768.jpg",
+    "static/media/Screenshot_3.jpg": "/portfolio/static/media/Screenshot_3.f37449d75fe08d21afab.jpg",
+    "static/media/Green_tick.png": "/portfolio/static/media/Green_tick.ed6fcb4c505a223fbd37.png",
+    "static/media/magpie_murders.jpg": "/portfolio/static/media/magpie_murders.93b7224aa0cc5cfbc389.jpg",
     "index.html": "/portfolio/index.html",
-    "main.cd58f987.css.map": "/portfolio/static/css/main.cd58f987.css.map",
-    "main.b3955d1d.js.map": "/portfolio/static/js/main.b3955d1d.js.map",
+    "main.c5665ba2.css.map": "/portfolio/static/css/main.c5665ba2.css.map",
+    "main.522de388.js.map": "/portfolio/static/js/main.522de388.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd58f987.css",
-    "static/js/main.b3955d1d.js"
+    "static/css/main.c5665ba2.css",
+    "static/js/main.522de388.js"
   ]
 }
